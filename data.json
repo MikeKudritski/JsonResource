@@ -6,5 +6,19 @@
 	"maxPos" : "55",
 	"carPos" : "20",
 	"add" : 12,
-	"addT" : "text"
+	"addT" : "text",
+	"timetable" : [
+		{
+			"dayOfWeek" : "1",
+			"hour" : "19",
+			"minute" : "59",
+			"second" : "0"
+		},
+		{
+			"dayOfWeek" : "2",
+			"hour" : "14",
+			"minute" : "15",
+			"second" : "5"
+		}
+	]
 }
