@@ -4,5 +4,7 @@
 	"minute" : "48",
 	"second" : "23",
 	"maxPos" : "55",
-	"carPos" : "20"
+	"carPos" : "20",
+	"add" : 12,
+	"addT" : text
 }
