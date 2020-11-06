@@ -16,13 +16,15 @@
 			"dayOfWeek" : "1",
 			"hour" : "19",
 			"minute" : "59",
-			"second" : "0"
+			"second" : "0",
+			"action" : "down"
 		},
 		{
 			"dayOfWeek" : "2",
 			"hour" : "14",
 			"minute" : "15",
-			"second" : "5"
+			"second" : "5",
+			"action" : "up"
 		}
 	]
 }
