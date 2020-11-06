@@ -6,5 +6,5 @@
 	"maxPos" : "55",
 	"carPos" : "20",
 	"add" : 12,
-	"addT" : text
+	"addT" : "text"
 }
