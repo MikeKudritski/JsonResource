@@ -25,6 +25,13 @@
 			"minute" : "15",
 			"second" : "5",
 			"action" : "up"
+		},
+		{
+			"dayOfWeek" : "255",
+			"hour" : "8",
+			"minute" : "30",
+			"second" : "0",
+			"action" : "up"
 		}
 	]
 }
