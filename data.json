@@ -17,21 +17,21 @@
 			"hour" : "19",
 			"minute" : "59",
 			"second" : "0",
-			"action" : "down"
+			"action" : "1"
 		},
 		{
 			"dayOfWeek" : "2",
 			"hour" : "14",
 			"minute" : "15",
 			"second" : "5",
-			"action" : "up"
+			"action" : "0"
 		},
 		{
 			"dayOfWeek" : "255",
 			"hour" : "8",
 			"minute" : "30",
 			"second" : "0",
-			"action" : "up"
+			"action" : "0"
 		}
 	]
 }
